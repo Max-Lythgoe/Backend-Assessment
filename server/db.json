@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "caption": "Doctor: Googling stuff online does not make you a doctor. Programmers:",
+      "rating": 5,
+      "imageURL" : "https://i.kym-cdn.com/entries/icons/facebook/000/030/710/dd0.jpg"
+    },
+    {
+      "id": 2,
+      "caption": "Stacking if-else statements be like:",
+      "rating": 4,
+      "imageURL" : "https://preview.redd.it/6rbq35occu441.jpg?width=640&crop=smart&auto=webp&s=eef8fa78fba98812bdbf89e9a5da6431eaa2b3b1"
+    },
+    {
+      "id": 3,
+      "caption": "My code doesn't work. Let's try changing nothing and running it again.",
+      "rating": 4,
+      "imageURL" : "https://i.kym-cdn.com/entries/icons/original/000/031/021/cover2.jpg"
+    }
+  ]
