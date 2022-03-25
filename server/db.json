@@ -16,5 +16,17 @@
       "caption": "My code doesn't work. Let's try changing nothing and running it again.",
       "rating": 4,
       "imageURL" : "https://i.kym-cdn.com/entries/icons/original/000/031/021/cover2.jpg"
+    },
+    {
+      "id": 4,
+      "caption": "When your code actually works on the first try",
+      "rating": 3,
+      "imageURL": "https://media1.giphy.com/media/l3q2K5jinAlChoCLS/200w.gif"
+    },
+    {
+      "id":5,
+      "caption": "My code trying to function when it has one typo",
+      "rating": 5,
+      "imageURL": "https://i.pinimg.com/originals/86/f0/7b/86f07b3af5597023a031511783402ead.gif"
     }
   ]

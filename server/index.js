@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 
-const { getAllMemes, createMeme, deleteMeme, updateMeme, randomCompliment } = require('./controller')
+const { getAllMemes, createMeme, deleteMeme, updateMeme, randomCompliment, randomFortune } = require('./controller')
 
 
 const app = express();
@@ -11,6 +11,7 @@ app.use(cors());
 app.use(express.json()); // When we want to be able to accept JSON.
 
 app.get("/api/compliment", randomCompliment)
+app.get("/api/fortune", randomFortune)
 
 app.get('/api/memes', getAllMemes)
 app.post('/api/memes', createMeme)

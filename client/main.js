@@ -41,7 +41,7 @@ function createMemeCard(meme) {
     <img alt='meme image' src=${meme.imageURL} class="meme-image"/>
     <div class="btns-container">
         <button id="control-buttons" onclick="updateMeme(${meme.id}, 'minus')">-</button>
-        <p class="meme-rating">${meme.rating} / 5</p>
+        <p class="meme-rating">${meme.rating} / 5 ⭐</p>
         <button id="control-buttons" onclick="updateMeme(${meme.id}, 'plus')">+</button>
     </div>
     <button id="delete-style" onclick="deleteMeme(${meme.id})">DELETE</button>
